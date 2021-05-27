@@ -18,10 +18,12 @@ function decrement(a) {
 }
 function makeInt(a) {
     return parseInt(a);
-
 }
 function makeInt(string) {
     return parseInt(string,10);
+}
+function makeInt(a) {
+    return parseInt(apnle,10)
 }
 function preserveDecimal(a) {
     return parseFloat(a);
